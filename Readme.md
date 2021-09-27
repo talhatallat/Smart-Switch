@@ -2,7 +2,7 @@
 
 ****The program description:****
 
-This program allows users to connect the wifi module NodeMCU (ESP8266) to the wifi to control any electronic output devices (240V bulb in this case) using the BLYNK Application on any smartphone or tablet from anywhere in the world.
+This program allows users to connect to the wifi using NodeMCU (ESP8266) module to control any electronic output devices (240V bulb in this case) using the BLYNK Application on any smartphone or tablet from anywhere in the world.
 
 Blynk is a platform with iOS and Android apps to control Arduino, Raspberry Pi and the linkes over the Internet. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets.
 
